@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6308bb21666e4d058eb9019a85edf664/artifacts
+end_time: 1716975453575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6308bb21666e4d058eb9019a85edf664
+run_name: wistful-sheep-554
+run_uuid: 6308bb21666e4d058eb9019a85edf664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716975152225
+status: 3
+tags: []
+user_id: joelg

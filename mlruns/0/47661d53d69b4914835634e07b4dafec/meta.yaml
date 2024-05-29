@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/47661d53d69b4914835634e07b4dafec/artifacts
+end_time: 1716975177903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47661d53d69b4914835634e07b4dafec
+run_name: zealous-conch-88
+run_uuid: 47661d53d69b4914835634e07b4dafec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716975165643
+status: 3
+tags: []
+user_id: joelg

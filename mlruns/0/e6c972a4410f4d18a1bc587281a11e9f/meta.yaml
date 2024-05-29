@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e6c972a4410f4d18a1bc587281a11e9f/artifacts
+end_time: 1716975453364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6c972a4410f4d18a1bc587281a11e9f
+run_name: gentle-flea-348
+run_uuid: e6c972a4410f4d18a1bc587281a11e9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716975204139
+status: 3
+tags: []
+user_id: joelg

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/37dabf957a5047f3b4bbee6a3e232ad5/artifacts
+end_time: 1716975165627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37dabf957a5047f3b4bbee6a3e232ad5
+run_name: zealous-penguin-260
+run_uuid: 37dabf957a5047f3b4bbee6a3e232ad5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716975155872
+status: 3
+tags: []
+user_id: joelg

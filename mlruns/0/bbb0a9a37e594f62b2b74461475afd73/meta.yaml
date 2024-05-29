@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bbb0a9a37e594f62b2b74461475afd73/artifacts
+end_time: 1716975186711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbb0a9a37e594f62b2b74461475afd73
+run_name: stylish-mule-703
+run_uuid: bbb0a9a37e594f62b2b74461475afd73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716975177919
+status: 3
+tags: []
+user_id: joelg
