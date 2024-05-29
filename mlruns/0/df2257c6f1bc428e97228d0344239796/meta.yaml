@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/df2257c6f1bc428e97228d0344239796/artifacts
+end_time: 1716974526568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df2257c6f1bc428e97228d0344239796
+run_name: serious-sloth-73
+run_uuid: df2257c6f1bc428e97228d0344239796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716974493312
+status: 4
+tags: []
+user_id: joelg

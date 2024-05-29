@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cca5d8e080ca4ff19f3769de8896acbd/artifacts
+end_time: 1716974493297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cca5d8e080ca4ff19f3769de8896acbd
+run_name: incongruous-flea-449
+run_uuid: cca5d8e080ca4ff19f3769de8896acbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716974454995
+status: 3
+tags: []
+user_id: joelg
