@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6851cf7a4d3e47ba941db9980c5f24fc/artifacts
+end_time: 1716970577552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6851cf7a4d3e47ba941db9980c5f24fc
+run_name: serious-asp-767
+run_uuid: 6851cf7a4d3e47ba941db9980c5f24fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716970479613
+status: 3
+tags: []
+user_id: joelg

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/48072e72f0404076a179d7b313f334e6/artifacts
+end_time: 1716969038420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48072e72f0404076a179d7b313f334e6
+run_name: upset-koi-875
+run_uuid: 48072e72f0404076a179d7b313f334e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716968964641
+status: 3
+tags: []
+user_id: joelg

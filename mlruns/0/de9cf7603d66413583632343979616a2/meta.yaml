@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/de9cf7603d66413583632343979616a2/artifacts
+end_time: 1716968411837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de9cf7603d66413583632343979616a2
+run_name: indecisive-fly-643
+run_uuid: de9cf7603d66413583632343979616a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716968373254
+status: 3
+tags: []
+user_id: joelg

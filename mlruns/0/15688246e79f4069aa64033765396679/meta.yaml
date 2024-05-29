@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/15688246e79f4069aa64033765396679/artifacts
+end_time: 1716970093593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15688246e79f4069aa64033765396679
+run_name: stately-grouse-529
+run_uuid: 15688246e79f4069aa64033765396679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716970091400
+status: 4
+tags: []
+user_id: joelg

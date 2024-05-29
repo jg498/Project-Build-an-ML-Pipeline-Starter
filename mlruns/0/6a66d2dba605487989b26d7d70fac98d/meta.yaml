@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6a66d2dba605487989b26d7d70fac98d/artifacts
+end_time: 1716969612361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a66d2dba605487989b26d7d70fac98d
+run_name: respected-finch-523
+run_uuid: 6a66d2dba605487989b26d7d70fac98d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716969545837
+status: 4
+tags: []
+user_id: joelg

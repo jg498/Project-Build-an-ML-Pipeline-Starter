@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3b184c4d63494e52b5f7a3bb0e06cc50/artifacts
+end_time: 1716968763983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b184c4d63494e52b5f7a3bb0e06cc50
+run_name: painted-pig-454
+run_uuid: 3b184c4d63494e52b5f7a3bb0e06cc50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716968730652
+status: 3
+tags: []
+user_id: joelg

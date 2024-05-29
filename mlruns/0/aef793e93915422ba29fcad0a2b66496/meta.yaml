@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/aef793e93915422ba29fcad0a2b66496/artifacts
+end_time: 1716969612057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aef793e93915422ba29fcad0a2b66496
+run_name: intrigued-goose-326
+run_uuid: aef793e93915422ba29fcad0a2b66496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716969548271
+status: 4
+tags: []
+user_id: joelg

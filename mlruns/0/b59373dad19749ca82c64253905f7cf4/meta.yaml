@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b59373dad19749ca82c64253905f7cf4/artifacts
+end_time: 1716970716826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b59373dad19749ca82c64253905f7cf4
+run_name: kindly-robin-486
+run_uuid: b59373dad19749ca82c64253905f7cf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716970661581
+status: 3
+tags: []
+user_id: joelg

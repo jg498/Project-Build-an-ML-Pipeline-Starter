@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a88ab42683064b30b3e093671f038069/artifacts
+end_time: 1716967408112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a88ab42683064b30b3e093671f038069
+run_name: trusting-goat-155
+run_uuid: a88ab42683064b30b3e093671f038069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716967282470
+status: 3
+tags: []
+user_id: joelg

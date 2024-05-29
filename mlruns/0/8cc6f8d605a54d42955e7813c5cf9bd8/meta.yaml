@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8cc6f8d605a54d42955e7813c5cf9bd8/artifacts
+end_time: 1716967535048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cc6f8d605a54d42955e7813c5cf9bd8
+run_name: entertaining-cod-912
+run_uuid: 8cc6f8d605a54d42955e7813c5cf9bd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716967521443
+status: 3
+tags: []
+user_id: joelg

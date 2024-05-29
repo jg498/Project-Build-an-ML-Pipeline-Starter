@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e6e392e4b4d9490a81720145501a8638/artifacts
+end_time: 1716970717031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6e392e4b4d9490a81720145501a8638
+run_name: debonair-panda-454
+run_uuid: e6e392e4b4d9490a81720145501a8638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716970477175
+status: 3
+tags: []
+user_id: joelg

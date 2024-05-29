@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f5a24f4b957c425fbcd178801bc4a644/artifacts
+end_time: 1716967535227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5a24f4b957c425fbcd178801bc4a644
+run_name: auspicious-rook-54
+run_uuid: f5a24f4b957c425fbcd178801bc4a644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716967517723
+status: 3
+tags: []
+user_id: joelg

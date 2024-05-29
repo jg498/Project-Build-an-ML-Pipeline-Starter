@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/50f76e5b14da4d04be913e16556661e9/artifacts
+end_time: 1716970188453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50f76e5b14da4d04be913e16556661e9
+run_name: honorable-dog-684
+run_uuid: 50f76e5b14da4d04be913e16556661e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716970184301
+status: 4
+tags: []
+user_id: joelg

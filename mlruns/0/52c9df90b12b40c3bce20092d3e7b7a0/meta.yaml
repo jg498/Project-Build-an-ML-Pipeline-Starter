@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/52c9df90b12b40c3bce20092d3e7b7a0/artifacts
+end_time: 1716967407894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52c9df90b12b40c3bce20092d3e7b7a0
+run_name: grandiose-goat-110
+run_uuid: 52c9df90b12b40c3bce20092d3e7b7a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716967341092
+status: 3
+tags: []
+user_id: joelg

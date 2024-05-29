@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f01c8c4076444a7fb58162dfd2a0f3f2/artifacts
+end_time: 1716969038604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f01c8c4076444a7fb58162dfd2a0f3f2
+run_name: amusing-shrimp-400
+run_uuid: f01c8c4076444a7fb58162dfd2a0f3f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716968961106
+status: 3
+tags: []
+user_id: joelg

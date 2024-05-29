@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f11c0eda778c46659b73f7fbcba3588f/artifacts
+end_time: 1716970624023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f11c0eda778c46659b73f7fbcba3588f
+run_name: unleashed-cow-965
+run_uuid: f11c0eda778c46659b73f7fbcba3588f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716970577691
+status: 3
+tags: []
+user_id: joelg

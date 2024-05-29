@@ -1,0 +1,15 @@
+artifact_uri: file:///home/joelg/Project-Build-an-ML-Pipeline-Starter/mlruns/0/061f626a728d4837ab2307f937887afd/artifacts
+end_time: 1716973311083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 061f626a728d4837ab2307f937887afd
+run_name: silent-owl-671
+run_uuid: 061f626a728d4837ab2307f937887afd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716973233545
+status: 3
+tags: []
+user_id: joelg
